@@ -17,7 +17,9 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
 
 <ol>
   <li><b>Clone o Repositório</b> e certifique-se de clonar para a máquina local:
+    
     `git clone https://github.com/devMarlos/MyGamingList.git`
+    `cd MyGamingList`
   </li>
   
   
