@@ -17,13 +17,8 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
 
 <ol>
   <li><b>Clone o Repositório</b> e certifique-se de clonar para a máquina local:
-    ```
-    Este é nosso
-    Querido Exemplo
-    
-    Nota que não irá formatar o negrito!
-    ```
-    </li>
+    `git clone https://github.com/devMarlos/MyGamingList.git`
+  </li>
   
   
 </ol>
