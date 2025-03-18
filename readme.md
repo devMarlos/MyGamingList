@@ -23,13 +23,13 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
   </li>
 
   <li><b>Inicie o contêiner</b> e mapeia a porta local para acessar a aplicação:
-    
+
+    docker build -t mygaminglist .
     docker run -p 8501:8501 mygaminglist
   </li>
 
   <li><b>Acesse no Navegador</b>  e abra aplicação usando a URL abaixo:
     
-    docker build -t mygaminglist .
     http://localhost:8501
   </li>
 </ol>
