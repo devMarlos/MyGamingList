@@ -16,11 +16,11 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
 <h2>Passos para rodar a Build</h2>
 
 <ol>
-  <li><p><b>Clone o Repositório</b> e certifique-se de clonar para a máquina local:
+  <li><b>Clone o Repositório</b> e certifique-se de clonar para a máquina local:
   ```
   git clone https://github.com/seu-usuario/MyGamingList.git
   cd MyGamingList
-  ```</p></li>
+  ```</li>
   
   
 </ol>
