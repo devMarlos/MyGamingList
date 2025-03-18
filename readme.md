@@ -17,10 +17,13 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
 
 <ol>
   <li><b>Clone o Repositório</b> e certifique-se de clonar para a máquina local:
-  ```
-  git clone https://github.com/seu-usuario/MyGamingList.git
-  cd MyGamingList
-  ```</li>
+    ```
+    Este é nosso
+    Querido Exemplo
+    
+    Nota que não irá formatar o negrito!
+    ```
+    </li>
   
   
 </ol>
