@@ -29,6 +29,7 @@ O objetivo é fornecer uma interface simples e funcional para manter seu catálo
 
   <li><b>Acesse no Navegador</b>  e abra aplicação usando a URL abaixo:
     
+    docker build -t mygaminglist .
     http://localhost:8501
   </li>
 </ol>
